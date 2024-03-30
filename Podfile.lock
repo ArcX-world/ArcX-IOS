@@ -1,0 +1,71 @@
+PODS:
+  - Alamofire (5.8.1)
+  - KeychainAccess (4.2.2)
+  - Kingfisher (6.3.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - Protobuf (3.25.3)
+  - SnapKit (5.6.0)
+  - SSZipArchive (2.4.3)
+  - Starscream (4.0.6)
+  - SVGAPlayer (2.5.7):
+    - SVGAPlayer/Core (= 2.5.7)
+    - SVGAPlayer/ProtoFiles (= 2.5.7)
+  - SVGAPlayer/Core (2.5.7):
+    - SSZipArchive (>= 1.8.1)
+    - SVGAPlayer/ProtoFiles
+  - SVGAPlayer/ProtoFiles (2.5.7):
+    - Protobuf (~> 3.4)
+  - SwiftyJSON (5.0.1)
+  - XCGLogger (7.0.1):
+    - XCGLogger/Core (= 7.0.1)
+  - XCGLogger/Core (7.0.1):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - KeychainAccess (~> 4.2.2)
+  - Kingfisher (~> 6.3.1)
+  - Moya (~> 15.0.0)
+  - SnapKit (~> 5.6.0)
+  - Starscream (~> 4.0.4)
+  - SVGAPlayer (~> 2.5.7)
+  - SwiftyJSON (~> 5.0.1)
+  - XCGLogger (~> 7.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KeychainAccess
+    - Kingfisher
+    - Moya
+    - ObjcExceptionBridging
+    - Protobuf
+    - SnapKit
+    - SSZipArchive
+    - Starscream
+    - SVGAPlayer
+    - SwiftyJSON
+    - XCGLogger
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  Protobuf: 8e9074797a13c484a79959fdb819ef4ae6da7dbe
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  Starscream: fb2c4510bebf908c62bd383bcf05e673720e91fd
+  SVGAPlayer: 318b85a78b61292d6ae9dfcd651f3f0d1cdadd86
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  XCGLogger: 1943831ef907df55108b0b18657953f868de973b
+
+PODFILE CHECKSUM: 02e422da683aede49e5db13e71d179d8ba32cdd1
+
+COCOAPODS: 1.14.3
